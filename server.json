@@ -1,0 +1,68 @@
+{
+    "produtos": [
+    {
+        "id": 1,
+        "photo": "https://i.pinimg.com/originals/29/e2/c9/29e2c9adf29df0bc492b6967dd6df12a.jpg",
+        "name": "Conjunto Grid",
+        "description": "Conjunto muito bonito para quem curte um look meio grade",
+        "price": 120
+
+    },
+    {
+        "id": 2,
+        "photo": "https://a-static.mlcdn.com.br/618x463/conjunto-feminino-moda-roupas-femininas-unico-36-ao-40-bellucy-modas/bellucymodas/1691-5585/2c9ec1c35545271257070017d7d13e93.jpg",
+        "name": "Conjunto Orange",
+        "description": "Tudo laranja para você arrasar na festa dos laranjas",
+        "price": 120
+
+    },
+    {
+        "id": 3,
+        "photo": "https://i.pinimg.com/564x/35/58/70/3558707901b09c667aff12937ff67fd4.jpg",
+        "name": "Top e Calção",
+        "description": "Para quem curte liberdade e estilo com esse look de primavera",
+        "price": 200
+
+    },
+    {
+        "id": 4,
+        "photo": "https://cf.shopee.com.br/file/f183354529f00615465f3c0ede8d4274_tn",
+        "name": "Kit Friorenta",
+        "description": "Kit essencial para lidar com a frente polar",
+        "price": 150
+
+    },
+    {
+        "id": 5,
+        "photo": "https://i.shafacdn.net/images/269347-65-310-430-wZjb3aGrtVs.jpg",
+        "name": "Básico Cimento",
+        "description": "Paleta de cores bem sóbria e estilosa",
+        "price": 120
+
+    },
+    {
+        "id": 6,
+        "photo": "https://www.pontofrio-imagens.com.br/moda/roupas-femininas/macacao/17651850/1449142157/macacao-jardineira-feminina-jeans-longo-classica-ewf-jeans-azul-claro-1505658023.jpg",
+        "name": "Jeans Queen",
+        "description": "Última tendência em Toritama, a terra dos jeans",
+        "price": 110
+
+    },
+    {
+        "id": 7,
+        "photo": "https://images.tcdn.com.br/img/img_prod/498402/vestido_midi_justo_acinturado_canelado_roupas_femininas_preto_2047483747_1_20200429121929.jpg",
+        "name": "Vestidão Listras",
+        "description": "Com um lascão na perna para você mostrar sua sensualidade",
+        "price": 95
+
+    },
+    {
+        "id": 8,
+        "photo": "https://i.shafacdn.net/images/300602-65-310-430-HwMSwq6Qg1E.jpg",
+        "name": "Kit Now United",
+        "description": "Ideal para as crianças otakas kpoppers",
+        "price": 250
+
+    }
+    ]
+}
